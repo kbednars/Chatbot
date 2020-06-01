@@ -1,0 +1,8 @@
+maxLength: 15
+vocabularySize: 2000
+embeddingOutputDim: 100
+numEpochs: 100
+batchSize: 8
+learningRate: 0.00005
+trainData: 1000
+dataPart: 10
